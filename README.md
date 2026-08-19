@@ -24,7 +24,7 @@
 
 ## Estadísticas
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasponnce&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=lucasponnce&show_icons=true&theme=github_dark&hide_border=true"/>
 
 </div>
 
