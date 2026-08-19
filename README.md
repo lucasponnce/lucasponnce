@@ -4,7 +4,7 @@
 
 # Lucas Ponce
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas+(UTN+FRVM);Enfocado+en+backend+y+bases+de+datos;Seguridad+de+aplicaciones+web" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas+(UTN+FRVM)" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## Herramientas y tecnologías
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,postgres,git,docker,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,postgres,docker,vscode,linux"/>
 
 </div>
 
