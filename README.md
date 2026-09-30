@@ -44,8 +44,6 @@
 
 ## Contacto
 
-<a href="https://github.com/lucasponnce"><img src="https://skillicons.dev/icons?i=github" /></a>
-&nbsp;&nbsp;&nbsp;
 <a href="mailto:luucasponnce75@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 
 </div>
